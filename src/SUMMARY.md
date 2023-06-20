@@ -3,7 +3,7 @@
 - [Introduction](README.md)
   - [The Need for AI-Based E-commerce](chapter-1-1.md)
   - [Overview of Artificial Intelligence and Its Applications in E-commerce](chapter-1-2.md)
-  - [Objectives and Structure of the Book](chapter-1-3.md)
+  - [Objectives of the Book](chapter-1-3.md)
 - [Understanding E-commerce](chapter-2.md)
   - [Overview of E-commerce](chapter-2-1.md)
   - [Traditional Approaches to Online Shopping](chapter-2-2.md)
