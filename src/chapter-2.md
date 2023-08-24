@@ -1,5 +1,3 @@
-Understanding E-commerce
-========================
 
 E-commerce, or electronic commerce, refers to the buying and selling of goods and services over the internet. In this chapter, we will provide an overview of e-commerce, explore traditional approaches to online shopping, and discuss the limitations and challenges associated with these approaches.
 

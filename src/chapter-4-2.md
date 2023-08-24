@@ -1,5 +1,3 @@
-Transactional and Behavioral Data
-=======================================================================================
 
 In this chapter, we will explore the collection and analysis of transactional and behavioral data in e-commerce. We will discuss the importance of this data, methods for collecting it, and how it can be analyzed to improve the user experience and increase sales.
 

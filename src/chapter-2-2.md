@@ -1,5 +1,3 @@
-Traditional Approaches to Online Shopping
-============================================================================
 
 In this chapter, we will explore traditional approaches to online shopping, including the evolution of e-commerce and the various methods for conducting online transactions.
 

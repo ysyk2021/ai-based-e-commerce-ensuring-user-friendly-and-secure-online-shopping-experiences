@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in E-commerce
-============================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses various types of technologies and approaches. In e-commerce, different types of AI can be used to achieve different goals and solve different problems. In this chapter, we will explore the different types of AI and their applications in e-commerce.
 

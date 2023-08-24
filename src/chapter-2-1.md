@@ -1,5 +1,3 @@
-Overview of E-commerce
-=========================================================
 
 In this chapter, we will provide an overview of e-commerce, including its definition, history, and current state. We will also discuss the benefits and challenges of e-commerce for businesses and consumers.
 

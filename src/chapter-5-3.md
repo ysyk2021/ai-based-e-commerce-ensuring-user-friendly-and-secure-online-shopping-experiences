@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants
-==============================================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach e-commerce. AI-powered tools can help businesses analyze customer data, create personalized shopping experiences, and improve security. In this chapter, we will focus on two AI-based e-commerce techniques and strategies: chatbots and virtual assistants.
 
