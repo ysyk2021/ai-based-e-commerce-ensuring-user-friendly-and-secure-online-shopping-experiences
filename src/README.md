@@ -10,3 +10,7 @@ This book, "AI-Based E-commerce: Ensuring User-Friendly and Secure Online Shoppi
 By taking a holistic approach to AI-based e-commerce, this book aims to provide practical guidance and recommendations for businesses looking to leverage AI to enhance their online shopping experiences. Whether you're a business owner, researcher, or policymaker, this book offers valuable insights and practical advice for unlocking the full potential of AI in e-commerce.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
